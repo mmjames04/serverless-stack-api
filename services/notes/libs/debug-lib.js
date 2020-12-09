@@ -1,5 +1,5 @@
 import util from 'util';
-import AWS from 'aws-sdk'
+import AWS from 'aws-sdk';
 
 let logs;
 
